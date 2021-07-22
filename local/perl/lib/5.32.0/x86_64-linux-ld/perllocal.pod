@@ -1,0 +1,572 @@
+=head2 Thu Jul 22 11:25:51 2021: C<Module> L<App::cpanminus|App::cpanminus>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.7044>
+
+=item *
+
+C<EXE_FILES: bin/cpanm>
+
+=back
+
+=head2 Thu Jul 22 11:25:52 2021: C<Module> L<Path::Tiny|Path::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.118>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:53 2021: C<Module> L<Module::CPANfile|Module::CPANfile>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1004>
+
+=item *
+
+C<EXE_FILES: script/cpanfile-dump script/mymeta-cpanfile>
+
+=back
+
+=head2 Thu Jul 22 11:25:54 2021: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:55 2021: C<Module> L<Class::Tiny|Class::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:56 2021: C<Module> L<ExtUtils::Config|ExtUtils::Config>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:56 2021: C<Module> L<ExtUtils::InstallPaths|ExtUtils::InstallPaths>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.012>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:57 2021: C<Module> L<CPAN::Meta::Check|CPAN::Meta::Check>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.014>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:58 2021: C<Module> L<ExtUtils::Helpers|ExtUtils::Helpers>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.026>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:58 2021: C<Module> L<File::Which|File::Which>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:25:59 2021: C<Module> L<File::pushd|File::pushd>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.016>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:00 2021: C<Module> L<local::lib|local::lib>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.000024>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:01 2021: C<Module> L<URI|URI>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:02 2021: C<Module> L<CPAN::DistnameInfo|CPAN::DistnameInfo>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:02 2021: C<Module> L<String::ShellQuote|String::ShellQuote>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.04>
+
+=item *
+
+C<EXE_FILES: shell-quote>
+
+=back
+
+=head2 Thu Jul 22 11:26:03 2021: C<Module> L<Tie::Handle::Offset|Tie::Handle::Offset>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:04 2021: C<Module> L<CPAN::Common::Index|CPAN::Common::Index>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.010>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:05 2021: C<Module> L<IPC::Run3|IPC::Run3>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.048>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:05 2021: C<Module> L<HTTP::Tinyish|HTTP::Tinyish>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:06 2021: C<Module> L<Win32::ShellQuote|Win32::ShellQuote>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003001>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:06 2021: C<Module> L<Capture::Tiny|Capture::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.48>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:07 2021: C<Module> L<ExtUtils::MakeMaker::CPANfile|ExtUtils::MakeMaker::CPANfile>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:08 2021: C<Module> L<Parse::PMFile|Parse::PMFile>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.43>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:08 2021: C<Module> L<Menlo|Menlo>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9019>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:08 2021: C<Module> L<Menlo::Legacy|Menlo::Legacy>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9022>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Thu Jul 22 11:26:09 2021: C<Module> L<Carton|Carton>
+
+=over 4
+
+=item *
+
+C<installed into: /home/isucon/local/perl/lib/site_perl/5.32.0>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: v1.0.34>
+
+=item *
+
+C<EXE_FILES: script/carton>
+
+=back
+

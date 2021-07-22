@@ -1,0 +1,30 @@
+[package]
+name = "io-enum"
+version = "0.2.3"
+authors = ["Taiki Endo <te316e89@gmail.com>"]
+edition = "2018"
+license = "Apache-2.0 OR MIT"
+repository = "https://github.com/taiki-e/io-enum"
+homepage = "https://github.com/taiki-e/io-enum"
+documentation = "https://docs.rs/io-enum"
+keywords = ["io", "derive", "enum"]
+categories = ["rust-patterns"]
+readme = "README.md"
+description = """
+#[derive(Read, Write, Seek, BufRead)] for enums.
+"""
+
+[package.metadata.docs.rs]
+targets = ["x86_64-unknown-linux-gnu"]
+
+[workspace]
+
+[lib]
+proc-macro = true
+
+[features]
+
+[dependencies]
+derive_utils = { version = "0.10" }
+quote = "1.0"
+syn = "1.0"

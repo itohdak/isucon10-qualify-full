@@ -1,0 +1,5 @@
+file:share/doc/rustfmt/LICENSE-APACHE
+file:share/doc/rustfmt/LICENSE-MIT
+file:share/doc/rustfmt/README.md
+file:bin/rustfmt
+file:bin/cargo-fmt

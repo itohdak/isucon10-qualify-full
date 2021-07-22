@@ -1,0 +1,42 @@
+[package]
+name = "twoway"
+version = "0.2.1"
+authors = ["bluss"]
+
+description = "Fast substring search for strings and byte strings. Optional SSE4.2 acceleration (if detected at runtime) using pcmpestri. Memchr is the only mandatory dependency. The two way algorithm is also used by rust's libstd itself, but here it is exposed both for byte strings, using memchr, and optionally using a SSE4.2 accelerated version."
+
+license = "MIT/Apache-2.0"
+repository = "https://github.com/bluss/twoway"
+documentation = "https://docs.rs/twoway/"
+
+keywords = ["substring-search", "string", "pcmpestri", "find", "memmem"]
+categories = ["algorithms", "no-std"]
+
+[dependencies]
+memchr = { version = "2.0", default-features = false }
+unchecked-index = { version = "0.2.2" }
+jetscii = {version = "0.3", features= ["unstable"], optional = true }
+galil-seiferas = { version = "0.1.1", optional = true }
+
+[dev-dependencies]
+itertools = "0.8.0"
+odds = { version = "0.3", features=["std-string"] }
+macro-attr = "0.2"
+newtype_derive = "0.1"
+rand = "0.6"
+quickcheck = { version = "0.8", default-features = false }
+
+[features]
+# stable and pcmp support: opting out of using std, becoming no_std
+default = ["use_std"]
+use_std = ["memchr/use_std"]
+
+# Internal features for testing & benchmarking & development
+pattern = []
+benchmarks = ["galil-seiferas", "pattern"]
+all = ["jetscii", "pattern"]
+
+
+[package.metadata.release]
+no-dev-version = true
+tag-name = "{{version}}"
