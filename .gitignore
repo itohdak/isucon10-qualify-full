@@ -1,0 +1,12 @@
+.cache
+.bash_history
+.cmake/
+.config/htop/
+.gitconfig
+.lesshst
+.mysql_history
+.percona-toolkit.uuid
+.ssh/
+.vim/
+.viminfo
+.wget-hsts
